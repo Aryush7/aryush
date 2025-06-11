@@ -1,1 +1,1 @@
-A Power BI project that analyzes student marks from Student_Marks.xlsx. It includes average marks per subject, top 5 students by total score, subject-wise bar charts, and a class filter slicer for interactive insights.
+
